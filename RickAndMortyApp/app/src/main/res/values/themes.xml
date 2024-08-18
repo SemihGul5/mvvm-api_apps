@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RickAndMortyApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/yesil</item>
+        <item name="android:statusBarColor">@color/yesil_koyu</item>
+    </style>
+
+    <style name="Theme.RickAndMortyApp" parent="Base.Theme.RickAndMortyApp" />
+</resources>
